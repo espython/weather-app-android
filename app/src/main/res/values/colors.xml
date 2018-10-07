@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="clearSkyDark">#52a4db</color>
+    <color name="clearSkyLight">#73bae1</color>
+    <color name="foggySkyDark">#bc8db8</color>
+    <color name="foggySkyLight">#5d5e90</color>
+    <color name="cloudySkyDark">#5493b2</color>
+    <color name="cloudySkyLight">#a6bdca</color>
+    <color name="snowyDark">#787c87</color>
+    <color name="snowyLight">#adb7be</color>
+    <color name="clearSkyNightDark">#122259</color>
+    <color name="clearSkyNightLight">#9661a1</color>
+    <color name="hotDayDark">#841062</color>
+    <color name="hotDayLight">#fb5039</color>
+</resources>
